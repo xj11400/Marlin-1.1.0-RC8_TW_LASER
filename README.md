@@ -8,9 +8,9 @@ Mcode:
 * M901: LASER Driver Power On   
 * M902: Laser Driver Power OFF
    
+      
    
-@pins_RAMPS.h
-
+@pins_RAMPS.h   
  #define LASER_TTL_PIN  6   
  #define LASER_POWER_PIN  40
  
